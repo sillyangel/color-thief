@@ -1,3 +1,4 @@
+import { Buffer } from 'buffer';
 declare module 'colorthief' {
     /**
      * Gets the dominant color from the image.
